@@ -2,4 +2,7 @@ Madrid
 Barcelona
 Sevilla
 Valencia
+HEAD
 Murcia
+Granada
+origin/itinerarios
