@@ -1,0 +1,3 @@
+- Guardar copias de los documentos
+- Evitar llevar todo el dinero en el mismo lugar
+- Consultar información del destino antes del viaje
