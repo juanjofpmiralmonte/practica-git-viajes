@@ -2,4 +2,8 @@ Madrid
 Barcelona
 Sevilla
 Valencia
+<<<<<<< HEAD
 Cartagena
+=======
+Granada
+>>>>>>> origin/itinerarios
